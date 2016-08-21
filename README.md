@@ -21,3 +21,5 @@ bfc  不是含有两个换行符的元素.  硬换行符,软换行符
 + margin-left 着力点
 
 margin 力壁.float:left+overflow:hidden  . 参考线. 位置可能会跟浮动位置取最大值. inline-box 的margin 参考线 跟常规文档流对象 不同.
+
++ 软换行符可能会被margin-left 负值突破  不管是inline-box 还是float
